@@ -1,0 +1,12 @@
+# Theme
+theme = Catppuccin Mocha
+
+# Translucent Background
+background-opacity=0.9
+
+# Font Style
+font-family = "JetBrains Mono"
+
+# Remove title bar (InProgress)
+# macos-titlebar-style = hidden
+shell-integration-features = no-title
