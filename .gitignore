@@ -1,0 +1,25 @@
+# caches
+**/.cache/
+**/cache/
+
+#copilot files
+# GitHub Copilot config
+.config/github-copilot/
+
+# neovim runtime / plugins
+**/nvim/lazy/
+**/nvim/plugged/
+**/nvim/site/
+**/nvim/.rocks/
+
+# logs
+**/*.log
+
+# secrets
+**/*.env
+**/*.key
+**/*.pem
+
+#Ignore Cagent
+/.cagent/
+ 
